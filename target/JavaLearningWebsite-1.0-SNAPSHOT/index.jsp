@@ -12,6 +12,7 @@
 
 <%@include  file="navbar.html" %>
 
+
 <main class="px-3">
     <h1>Java for Beginners</h1>
     <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text,
