@@ -10,7 +10,7 @@
 </head>
 <body class="bg-dark">
 
-<%@include  file="navbar.html" %>
+<%@include  file="WEB-INF/navbar.html" %>
 
 <main class="px-3">
     <h1>Java for Beginners</h1>
