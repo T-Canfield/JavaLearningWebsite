@@ -118,7 +118,6 @@ Answer:<br></label>
     <button type="submit">Submit</button>
 </form>
 </p>
-
 <script src="webjars\bootstrap\5.0.1\js\bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
 </body>
 </html>
