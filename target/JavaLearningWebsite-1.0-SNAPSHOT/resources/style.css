@@ -1,7 +1,19 @@
 
 .bg-black{background-color:RGB(1,24,27)}
-body{color: white}
+body{color: white;
+}
+h1{
+    padding: 10px;
+}
+h3{ padding-left:30px}
+h4{ padding-left:30px}
 
-.content1 {
-    padding: 50px;
+p{padding: 10px}
+
+.accordion-body{color: black;}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
